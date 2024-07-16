@@ -1,0 +1,1 @@
+<?php echo "Hola mundo en linux maquina virtual !!!"?>
